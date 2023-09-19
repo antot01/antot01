@@ -4,7 +4,7 @@
 
 /* ROOM */
 
-const roomName = "GRENAL LEAGUE";
+const roomName = "GRÊNAL LEAGUE MAAAAAAAAAAAAAS TODOS JOGAM";
 const botName = "RONALDO BOT1.432.654";
 const maxPlayers = 20;
 const roomPublic = true;
